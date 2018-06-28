@@ -1,0 +1,228 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+}
+img{
+	display: block;
+	max-width: 100%;
+}
+
+
+/*//header//*/
+header{
+    overflow: hidden;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+    overflow: hidden;
+    /* height: 100%; */
+}
+.logo{
+    width: 35%;
+    float: left;
+}
+.img{}
+.img img{}
+.contacts{
+    width: 65%;
+    float: left;
+}
+.contact_box{
+    width: 33.33%;
+    float: left;
+}
+.icon{
+    width: 10%;
+    float: left;
+    font-size: 30px;
+}
+.icon i{color: #F69165;}
+.info{
+    float: left;
+    margin-left: 20px;
+}
+.info p{/* font-size: 17px; */}
+.info p>p{}
+
+
+
+/*//menu//*/
+.menu{background: #00CCE1;overflow: hidden;height: 70px;position: relative;}
+.menubox{overflow: hidden;height: 100%;}
+.menubox nav{
+    width: 70%;
+    float: left;
+    /* position: absolute; */
+}
+.menubox ul{
+}
+.menubox ul li{
+    display: inline;
+    padding-right: 25px;
+}
+.menubox ul li a{
+    text-decoration: none;
+    color: white;
+}
+.right_box{width: 30%;float: left;overflow: hidden;}
+.box{}
+.box ul{}
+.box ul li{
+    list-style: none;
+    \: inline;
+    float: left;
+}
+.box li i{
+    color: white;
+}
+.box li p{
+    color: white;
+}
+
+
+
+/*//banner//*/
+.banner{}
+.banner i{}
+.banner_img{}
+.banner_img img{}
+.banner_welcome{}
+.box_One{}
+.box_One h3{}
+.box_two{}
+.box_two h1{}
+.banner_welcome p{}
+.banner_welcome a{}
+.banner_welcome button{}
+.banner_welcome a>a{}
+.banner_welcome button>button{}
+.banner_Model{}
+.banner_Model img{}
+.banner i>i{}
+
+
+
+
+/*//welcome//*/
+.welcome{}
+.wlcomeimg{}
+.wlcomeimg img{}
+.head{}
+.head h2{}
+.head p{}
+.boxes{}
+.line_One{}
+.box{
+    background: #F69165;
+    overflow: hidden;
+    height: 70px;
+}
+.box img{}
+.box h3{}
+.box p{}
+.line_two{}
+
+
+
+
+/*//information//*/
+.information{}
+.headinformation{}
+.headinformation h1{}
+.headinformation img{}
+.headinformation p{}
+.lineone{}
+.fopad{}
+.docbox{}
+.doc{}
+.doc img{}
+.docbox p{}
+.docbox p>p{}
+.linetwo{}
+
+
+
+
+
+/*//packages//*/
+.packages{}
+.headwrite{}
+.headwrite h1{}
+.headwrite img{}
+.headwrite p{}
+.plan_body{}
+.price_box{}
+.border{}
+.topcolor{}
+.topcolor h3{}
+.topcolor p{}
+.middlecolor{}
+.middlecolor h1{}
+.middlecolor p{}
+.middlecolor p>p{}
+.middlecolor a{}
+.middlecolor button{}
+
+
+
+/*//deal part//*/
+.bannerdeal{}
+.bannerpartimg{}
+.overlay{}
+.overlay img{}
+.tophead{}
+.tophead h1{}
+.tophead img{}
+.tophead p{}
+.bottomlogos{}
+.bottomlogos a{}
+.bottomlogos i{}
+.wellogo{}
+.wellogo img{}
+.bottomlogos a>a{}
+.bottomlogos i>i{}
+
+
+
+/*//footer//*/
+footer{}
+.right_footer{}
+.right_footer img{}
+.right_footer p{}
+.right{}
+.right li{}
+.right li a{}
+.right li p{}
+.middle{}
+.middle li{}
+.middle li a{}
+.middle li p{}
+.bottom{}
+.bottom li{}
+.bottom li a{}
+.bottom li p{}
+.middle_footer{}
+.middle_footer h1{}
+.bottom_footer_img{}
+.imgtop{}
+.imgtop li{}
+.imgtop li img{}
+.imgtop li p{}
+.imgtop li span{}
+.right_footer{}
+.right_footer h1{}
+.right_footer p{}
+.right_footer input{}
+.right_footer p>p{}
+.right_footer nav{}
+.right_footer ul{}
+.right_footer ul li{}
+.right_footer ul li a{}
+.bottomfooter{}
+.pos{}
+.bottomfooter p{}
